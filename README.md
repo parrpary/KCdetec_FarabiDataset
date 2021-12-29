@@ -1,1 +1,2 @@
-# -KCdetec_FarabiDataset-
+## Please visit this site for more information.
+### https://sites.google.com/view/parisa-forghani-cv/home/KC-Classification/resnet-farabidataset
